@@ -39,72 +39,7 @@ Como variante, el movimiento de las caderas puede realizarse dibujando una figur
 
         video: "videos/bogle.MP4"
     },
-
-
-    // ==================================================
-    // BRUK UP
-    // ==================================================
-
-    {
-        name: "Bruk Up",
-        letter: "B",
-
-        image: "imagenes/dancehall.png",
-
-        epoca: "",
-
-        creador: {
-            nombre: "",
-            video: ""
-        },
-
-        estilo: "",
-
-        descripcion:
-            "Otro movimiento importante dentro de la cultura Dancehall.",
-
-        corporal:
-            "Aquí escribiremos posteriormente la información corporal y rítmica del paso.",
-
-        cultural:
-            "Aquí escribiremos posteriormente la historia y el contexto cultural del paso.",
-
-        video: ""
-    },
-
-
-    // ==================================================
-    // GULLY CREEPER
-    // ==================================================
-
-    {
-        name: "Gully Creeper",
-        letter: "G",
-
-        image: "imagenes/dancehall.png",
-
-        epoca: "",
-
-        creador: {
-            nombre: "",
-            video: ""
-        },
-
-        estilo: "",
-
-        descripcion:
-            "Un paso conocido dentro del Dancehall.",
-
-        corporal:
-            "Aquí escribiremos posteriormente la información corporal y rítmica del paso.",
-
-        cultural:
-            "Aquí escribiremos posteriormente la historia y el contexto cultural del paso.",
-
-        video: ""
-    },
-
-
+    
     // ==================================================
     // LOG ON
     // ==================================================
