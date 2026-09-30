@@ -37,7 +37,7 @@ Como variante, el movimiento de las caderas puede realizarse dibujando una figur
         cultural:
             `El movimiento expresa una intención de trasladar la energía desde el suelo hacia el cielo, estableciendo una conexión entre el apoyo corporal y la proyección del movimiento hacia los ancestros.`,
 
-        video: "videos/bogle.mp4"
+        video: "videos/bogle.MP4"
     },
 
 
@@ -135,7 +135,7 @@ La calidad del movimiento es suave y fluida. El gesto implica una disociación c
             `El movimiento se relaciona con la intención de retirar el gabán y dejar visibles las caderas. Su circulación también se vincula con la llegada y expansión de Internet y de los medios digitales en Jamaica, que favorecieron nuevas formas de difusión, aprendizaje y circulación de los pasos de Dancehall.
 Es el primer paso de la media escuela, que tenía unas intenciones en sus variaciones: puntita del pie, mostrar el sabor al bailar; talón, alusión al calentamiento corporal; y una pisada completa, para darte tu espacio.`,
 
-        video: "videos/log on.mp4"
+        video: "videos/log on.MP4"
     },
 
 
@@ -169,7 +169,7 @@ Los apoyos se mantienen distribuidos entre ambas piernas. La calidad del movimie
             `Surge a partir de la pérdida de un vínculo de amistad significativo para Bogle. El paso fue creado en honor a Willie Haggart, líder de la banda Black Roses, quien falleció y era una persona cercana al bailarín. Según el relato recogido, Haggart tenía una manera particular de bailar durante los encuentros sociales, que Bogle retomó como referencia para la creación del movimiento, convirtiéndolo en una forma de homenaje a su amigo.
 Fue el último paso creado por Bogle en la media escuela.`,
 
-        video: "videos/willie bounce.mp4"
+        video: "videos/willie bounce.MP4"
     },
 
 
@@ -202,7 +202,7 @@ Sus apoyos siempre están cambiando entre el talón y la punta. Tiene una energ�
         cultural:
             `Se considera un paso de transición entre diferentes épocas y tradiciones de la danza y la música popular jamaicana. Su movimiento se relaciona con influencias provenientes de géneros como el Ska y el Rocksteady, que antecedieron y aportaron elementos al desarrollo posterior del paso.`,
 
-        video: "videos/heel n toe.mp4"
+        video: "videos/heel n toe.MP4"
     },
 
 
@@ -235,7 +235,7 @@ Los apoyos alternan entre el pie de base y el toque de talón, mientras que el p
         cultural:
             `Se relaciona con una dinámica de cortejo presente en los espacios sociales y festivos. El movimiento puede utilizarse para llamar la atención de otra persona y expresar una intención de coqueteo dentro de la interacción social del baile, ya que tenían pantalones apretados y era cerrar la cremallera; o también, era una afirmación de cerrar las opiniones en una bolsa.`,
 
-        video: "videos/zip it up.mp4"
+        video: "videos/zip it up.MP4"
     },
 
 
@@ -268,7 +268,7 @@ Los apoyos se caracterizan por transferencias continuas del peso entre ambas pie
         cultural:
             "No se cuenta con información específica sobre el contexto de creación del paso.",
 
-        video: "videos/soul flow.mp4"
+        video: "videos/soul flow.MP4"
     },
 
 
@@ -302,7 +302,7 @@ Los apoyos cambian constantemente a lo largo de la secuencia. Inicialmente, el p
         cultural:
             "No se cuenta con información específica sobre el contexto cultural o histórico del paso.",
 
-        video: "videos/foot soldier.mp4"
+        video: "videos/foot soldier.MP4"
     },
 
 
@@ -369,7 +369,7 @@ Los apoyos se realizan mediante una transferencia alternada del peso entre ambos
         cultural:
             "No se cuenta con información específica sobre el contexto cultural o histórico del paso.",
 
-        video: "videos/krutch.mp4"
+        video: "videos/krutch.MP4"
     },
 
 
@@ -402,7 +402,7 @@ Los apoyos son alternados, mediante la transferencia del peso de una pierna a la
         cultural:
             "No se cuenta con información específica sobre el contexto cultural o histórico del paso.",
 
-        video: "videos/looney.mp4"
+        video: "videos/looney.MP4"
     }
 
 
